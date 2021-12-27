@@ -1,0 +1,36 @@
+body{
+    background: #56CCF2; 
+background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);  
+background: linear-gradient(to right, #2F80ED, #56CCF2); 
+
+}
+#div1 {
+background-color: grey;
+border: crimson solid;
+border-radius: 20px;
+width: 600;
+height: 500;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#bottle {
+    border-style: dashed;
+    border: dashed;
+    border-radius: 10px;
+    
+
+}
+#book {
+    border-style: dashed;
+    border: dashed;
+    border-radius: 10px;
+    width: 250px;
+    height: 150px;
+    
+
+}
+
+#conclusion{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color: darkmagenta;
+}
